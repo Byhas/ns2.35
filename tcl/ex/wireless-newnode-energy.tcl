@@ -29,7 +29,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# Modified for new node structure
+# Mod pified for new node structure
 
 # ======================================================================
 # Define options
